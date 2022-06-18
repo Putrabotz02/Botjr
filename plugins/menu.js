@@ -225,11 +225,11 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                         "title": `*${ucapan()}, ${name}*`.trim(),
                         "description": `
 ♡   ❍ㅤ  ⎙ㅤ ⌲
-╭─[ *_JAROTBOTZ_* ]─✧
+╭─[ *_PUTRABOTZ_* ]─✧
 ╰─────···
 📮 𝚂𝚒𝚕𝚊𝚑𝚔𝚊𝚗 𝚙𝚒𝚕𝚒𝚑 𝚖𝚎𝚗𝚞 𝚍𝚒 𝚋𝚊𝚠𝚊𝚑 𝚒𝚗𝚒_____•••••••••
-⬣━〔Powered By Jarot━⬣
-▌│█║▌║▌║║▌║▌║█│▌ `.trim(),                        "footerText": "*©jarotbotz*",                        "buttonText": "««TAMPILAN MENU««",                        "listType": "SINGLE_SELECT",                        "sections": [
+⬣━〔Powered By Putra━⬣
+▌│█║▌║▌║║▌║▌║█│▌ `.trim(),                        "footerText": "*©putrabotz*",                        "buttonText": "««TAMPILAN MENU««",                        "listType": "SINGLE_SELECT",                        "sections": [
                             {
                                 "rows": [{
                                     "title":  "|📥| ❯╾Donasi╼-",
@@ -245,11 +245,11 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                                     "rowId": ".setelangrub"
                                 }, {
 "title":      "|🛒| ❯╾Store Menu╼-",
-                                    "description": "store di Jarotbotz",
+                                    "description": "store di putrabotz",
                                     "rowId": ".iklan"
                                 }, {
   "title":  "|👩‍💻| ❯╾jadibot╼-",
-                                    "description": "bergabung bersama bot Jarot",
+                                    "description": "bergabung bersama bot putra",
                                     "rowId": ".jadibot"
                                 }, {
   "title":  "|🙇‍♂️| ❯╾group╼-",
@@ -406,15 +406,15 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                                 "title": "⟣──────────────❲  All-Menu  ❳──────────────⟢"
                             }, {
                                 "rows": [{
-                                    "title": "|👩‍💻| Owner JAROTBOTZ",
-                                    "description": "pemilik JAROTBOTZ",
+                                    "title": "|👩‍💻| Owner PUTRABOTZ",
+                                    "description": "pemilik PUTRABOTZ",
                                     "rowId": ".owner"
                                 }, {
                                     "title": "|🛠|Status bot",
                                     "description": "Status dan informasi bot",
                                     "rowId": ".botstatus"
                                 }, {
-                                    "title": "|🖨️| Rules Jarotbotz",
+                                    "title": "|🖨️| Rules Putrabotz",
                                     "description": "Mari menaati peraturan demi Kita bersama",
                                     "rowId": ".rules2"
                                 }, {
