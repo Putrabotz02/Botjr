@@ -42,12 +42,12 @@ global.APIKeys = { // APIKey nya disini
 
 // Sticker WM
 global.packname = 'Putra'
-global.author = 'Puter'
+global.author = 'Putra'
 
 global.wait = '▰▰▰▰▱▱▱▱▱▱ ʟᴏᴀᴅɪɴɢ...'
 global.eror = '「❗」Server LAGI ERROR COK!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© jarotbotz' //change the watermark 
+global.watermark = '© putrabotz' //change the watermark 
 global.image = 'https://telegra.ph/file/052ca138a613c8859756f.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/b344d0c10f1f7f47ed657.jpg'
 
